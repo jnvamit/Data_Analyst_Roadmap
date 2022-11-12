@@ -1,7 +1,7 @@
 import streamlit as st
 
 def streamlit_intro():
-    """function is basic intro to streamlit"""
+    """function is basic introduction to streamlit"""
     
     st.title('Hello Streamlit')
 
